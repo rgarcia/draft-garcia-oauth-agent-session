@@ -9,7 +9,7 @@ number:
 date:
 consensus: true
 v: 3
-area: "sec"
+area: "Security"
 workgroup: "Web Authorization Protocol"
 keyword:
  - oauth
