@@ -5,6 +5,18 @@ considered. Most recent first within each state. Open items are at the bottom.
 
 ## Decided
 
+### D8 — Individual submission named for the OAuth WG, hosted on i-d-template (2026-10-25)
+The draft is `draft-garcia-oauth-agent-session`: an individual submission
+with the `oauth` working group token in the name, which the IETF naming
+guidance calls the popular convention for a draft seeking adoption by a
+group. The repository name matches the draft name because the
+martinthomson/i-d-template tooling derives the editor's copy and build
+targets from the markdown filename. Alternatives: `draft-ietf-oauth-*`
+(not permitted before adoption); an organization name in the author slot
+(allowed by the rules but reads as a vendor specification); omitting the
+working group token as draft-carleton-workload-authz-grant does (fine, but
+this profile is unambiguously OAuth work).
+
 ### D7 — The access token is not single-use and is not revoked with the session (2026-10-25)
 The `web_session` access token has a 300 second maximum lifetime and may be
 presented more than once within it. Terminating a session does not invalidate
