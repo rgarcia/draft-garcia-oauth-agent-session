@@ -4,8 +4,8 @@
 
 Web Authorization Protocol                                R. Garcia, Ed.
 Internet-Draft                                                    Kernel
-Intended status: Informational                           25 October 2026
-Expires: 28 April 2027
+Intended status: Informational                           26 October 2026
+Expires: 29 April 2027
 
 
                         OAuth 2.0 Agent Session
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 April 2027.
+   This Internet-Draft will expire on 29 April 2027.
 
 Copyright Notice
 
