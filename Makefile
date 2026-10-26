@@ -1,3 +1,5 @@
+export UPLOAD_EMAIL ?= raf@kernel.sh
+
 LIBDIR := lib
 -include $(LIBDIR)/main.mk
 
